@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<library>
+    <books>
+        <book id="1" category="fantasy">
+            <title>Harry Potter and the Philosopher's Stone</title>
+            <author>J.K. Rowling</author>
+            <year>1997</year>
+            <price currency="USD">19.99</price>
+        </book>
+        <book id="2" category="science_fiction">
+            <title>Dune</title>
+            <author>Frank Herbert</author>
+            <year>1965</year>
+            <price currency="NZD">15.99</price>
+        </book>
+        <book id="3" category="fantasy">
+            <title>The Hobbit</title>
+            <author>J.R.R. Tolkien</author>
+            <year>1937</year>
+            <price currency="GBP">12.99</price>
+        </book>
+    </books>
+    <movies>
+        <movie id="101" category="action">
+            <title>Die Hard</title>
+            <director>John McTiernan</director>
+            <year>1988</year>
+            <rating>8.2</rating>
+            <price currency="USD">14.99</price>
+        </movie>
+        <movie id="102" category="drama">
+            <title>The Godfather</title>
+            <director>Francis Ford Coppola</director>
+            <year>1972</year>
+            <rating>9.2</rating>
+            <price currency="USD">19.99</price>
+        </movie>
+        <movie id="103" category="comedy">
+            <title>Groundhog Day</title>
+            <director>Harold Ramis</director>
+            <year>1993</year>
+            <rating>8.0</rating>
+            <price currency="BRL">9.99</price>
+        </movie>
+    </movies>
+</library>
